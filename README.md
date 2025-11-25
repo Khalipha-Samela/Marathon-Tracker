@@ -12,7 +12,7 @@ This tool also stores historical race calculations so athletes can monitor impro
 - Input covered distance
 - Enter elapsed time
 -Set your target finish time
-- Instantly see:
+* Instantly see:
  -Current average speed
  -Required speed to finish on time
  -Remaining distance
@@ -23,7 +23,7 @@ This tool also stores historical race calculations so athletes can monitor impro
 
 ✔️ **Automatic History Tracking**
 - Every calculation is saved into a JSON file.
-- History table displays:
+* History table displays:
   -Date & time
   -Covered distance
   -Elapsed time
@@ -51,19 +51,21 @@ This tool also stores historical race calculations so athletes can monitor impro
 ## 📂 Project Structure
 
 /marathon_tracker
-|── storage
-  |_marathon_data.txt
-│── index.php                # Main application logic + UI
-│── style.css                # Styling for the interface
-│── race_history.json        # Automatically generated history file
-│── README.md                # Project documentation
+│── index.php               # Main application logic + UI
+│── style.css               # Styling for the interface
+│── race_history.json       # Auto-generated history storage (JSON)
+│── README.md               # Project documentation
+│
+└── /storage                # Future storage directory (optional)
+     └── marathon_data.txt  # Placeholder for extended data logging
+
 
 ---
 
 ## 🚀 Installation & Setup
 
 **1. Download or Clone Repository**
-git clone https://github.com/yourusername/marathon-progress-tracker.git
+- git clone https://github.com/Khalipha-Samela/Marathon-Tracker.git
 
 **2. Move Project to PHP Server**
 Place it in:
