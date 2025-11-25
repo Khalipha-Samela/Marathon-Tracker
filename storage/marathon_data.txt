@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2025-08-26 18:22:07",
+        "covered_distance": 25,
+        "elapsed_time": 2.5,
+        "target_time": 4.25,
+        "current_speed": 10,
+        "required_speed": 14.285714285714286
+    },
+    {
+        "date": "2025-08-26 21:51:10",
+        "covered_distance": 35,
+        "elapsed_time": 2,
+        "target_time": 4.333333333333333,
+        "current_speed": 17.5,
+        "required_speed": 6.42857142857143
+    },
+    {
+        "date": "2025-08-26 22:09:39",
+        "covered_distance": 30,
+        "elapsed_time": 2.75,
+        "target_time": 4.5,
+        "current_speed": 10.909090909090908,
+        "required_speed": 11.428571428571429
+    },
+    {
+        "date": "2025-11-25 18:30:59",
+        "covered_distance": 10,
+        "elapsed_time": 2.8333333333333335,
+        "target_time": 3.6666666666666665,
+        "current_speed": 3.5294117647058822,
+        "required_speed": 48.000000000000014
+    }
+]

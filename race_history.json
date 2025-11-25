@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2025-11-25 21:51",
+        "covered_distance": 15,
+        "elapsed_time": 105,
+        "current_speed": 8.571428571428571,
+        "required_speed": 12.086666666666666
+    },
+    {
+        "date": "2025-11-25 21:52",
+        "covered_distance": 15,
+        "elapsed_time": 105,
+        "current_speed": 8.571428571428571,
+        "required_speed": 12.086666666666666
+    }
+]
