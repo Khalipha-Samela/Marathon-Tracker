@@ -86,6 +86,12 @@ Visit:
 
 ---
 
+## 🚀 Live Demo
+
+- **Live Version:** [http://maratonmaster.atwebpages.com/]
+
+--
+
 ## 📸 Screenshots (Optional)
 
 Add these once you push the project:
@@ -131,12 +137,13 @@ required_speed = remaining_distance ÷ (remaining_time / 60)
 ## 🗂️ Race History
 
 All results are automatically stored in:
-``race_history.json``
+```race_history.json```
 
 You can clear the full history with a built-in button.
 
 Example entry:
-``
+
+```
 {
   "date": "2025-01-01 14:30",
   "covered_distance": 25,
@@ -144,7 +151,7 @@ Example entry:
   "current_speed": 10,
   "required_speed": 12.2
 }
-``
+```
 
 ---
 ## 🎨 UI Highlights
