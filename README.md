@@ -115,15 +115,16 @@ All calculations are validated to prevent errors (negative input, impossible tim
 ## 🧮 Formula Reference
 
 **Current Speed**
-```current_speed = covered_distance ÷ (elapsed_minutes / 60)```
+- ```current_speed = covered_distance ÷ (elapsed_minutes / 60)```
 
 **Required Speed**
-``
+
+```
 remaining_distance = 42.195 - covered_distance
 remaining_time = target_minutes - elapsed_minutes
 
 required_speed = remaining_distance ÷ (remaining_time / 60)
-``
+```
 
 ---
 
