@@ -82,7 +82,7 @@ Place it in:
 
 **4. Access the App**
 Visit:
-- http://localhost/marathon-progress-tracker/
+- http://localhost/marathon_tracker/
 
 ---
 
@@ -90,7 +90,7 @@ Visit:
 
 - **Live Version:** [http://maratonmaster.atwebpages.com/]
 
---
+---
 
 ## 📸 Screenshots (Optional)
 
