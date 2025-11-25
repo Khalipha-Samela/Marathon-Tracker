@@ -50,7 +50,7 @@ This tool also stores historical race calculations so athletes can monitor impro
 
 ## 📂 Project Structure
 
-``
+```
 /marathon_tracker
 │── index.php               # Main application logic + UI
 │── style.css               # Styling for the interface
@@ -60,7 +60,7 @@ This tool also stores historical race calculations so athletes can monitor impro
 └── /storage                # Future storage directory (optional)
      └── marathon_data.txt  # Placeholder for extended data logging
 
-``
+```
 
 ---
 
